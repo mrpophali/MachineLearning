@@ -4,7 +4,7 @@
 #Class: DATASCI 400 CB
 #Date: 07th June 2019
 #Author: Mandar Pophali
-#Description: Milestone 3 assignment  
+#Description: EDA analysis for Android app store dataset
 
 Data overview for the file
 App                9659 non-null object : App name (Categorical) 
